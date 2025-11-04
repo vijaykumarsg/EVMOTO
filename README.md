@@ -1,4 +1,4 @@
-1. Project Overview
+📘1. Project Overview
 
 The Global Electric Vehicle (EV) Dashboard is an interactive Tableau project built to analyze worldwide trends in electric vehicle adoption, sales, and market performance.
 The dashboard transforms raw EV market data into clear, visual insights for manufacturers, policymakers, and analysts to make informed business and environmental decisions.
